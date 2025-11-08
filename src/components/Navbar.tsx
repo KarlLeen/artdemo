@@ -7,8 +7,8 @@ export default function Navbar() {
         {/* Logo */}
         <div className="flex items-center gap-2">
           <Image
-            src="/assets/Group-2.svg"
-            alt="Logo"
+            src="/assets/Athenax logo.svg"
+            alt="Athena Logo"
             width={120}
             height={24}
             className="object-contain"

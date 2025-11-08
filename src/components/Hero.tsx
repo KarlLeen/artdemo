@@ -41,7 +41,7 @@ export default function Hero() {
           <div className="flex items-start gap-4">
             <div className="relative w-[102px] h-[102px] rounded-lg overflow-hidden flex-shrink-0">
               <Image
-                src="/assets/Rectangle8.png"
+                src="/assets/Rectangle 8.png"
                 alt="Podcast thumbnail"
                 fill
                 className="object-cover"
@@ -86,7 +86,7 @@ export default function Hero() {
         {/* Decorative Images */}
         <div className="absolute top-[133px] left-[142px] w-[172px] h-[172px] rotate-[344deg] hidden lg:block">
           <Image
-            src="/assets/Rectangle6.png"
+            src="/assets/Rectangle 6.png"
             alt=""
             fill
             className="object-cover rounded-lg"
@@ -94,7 +94,7 @@ export default function Hero() {
         </div>
         <div className="absolute top-[212px] right-[1189px] w-[137px] h-[137px] rotate-[29deg] blur-[0.5px] hidden lg:block">
           <Image
-            src="/assets/Rectangle7.png"
+            src="/assets/Rectangle 7.png"
             alt=""
             fill
             className="object-cover rounded-lg"

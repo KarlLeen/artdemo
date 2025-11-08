@@ -44,13 +44,13 @@ export default function Brands() {
           {/* Gallery Grid */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12">
             {[
-              "/assets/Rectangle22.png",
-              "/assets/Rectangle23.png",
-              "/assets/Rectangle24.png",
-              "/assets/Rectangle26.png",
-              "/assets/Rectangle27.png",
-              "/assets/Rectungle28.png",
-              "/assets/Rectangle29.png",
+              "/assets/Rectangle 22.png",
+              "/assets/Rectangle 23.png",
+              "/assets/Rectangle 24.png",
+              "/assets/Rectangle 26.png",
+              "/assets/Rectangle 27.png",
+              "/assets/Rectangle 28.png",
+              "/assets/Rectangle 29.png",
             ].map((src, index) => (
               <div key={index} className="relative aspect-square rounded-2xl overflow-hidden opacity-20 hover:opacity-100 transition-opacity">
                 <Image

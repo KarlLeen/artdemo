@@ -16,7 +16,7 @@ export default function Features() {
             
             <div className="mb-6">
               <Image
-                src="/assets/image 9.png"
+                src="/assets/image 9 left.png"
                 alt=""
                 width={480}
                 height={112}
